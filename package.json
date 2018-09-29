@@ -1,0 +1,16 @@
+{
+  "name": "companyprofile2",
+  "version": "1.0.0",
+  "description": "Responsive Company Profile",
+  "main": "index.js",
+  "dependencies": {
+    "gh-pages": "^2.0.0",
+    "node-sass": "^4.9.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "sass": "echo \"Hello\""
+  },
+  "author": "Rajaka Kauthar Allam",
+  "license": "MIT"
+}
